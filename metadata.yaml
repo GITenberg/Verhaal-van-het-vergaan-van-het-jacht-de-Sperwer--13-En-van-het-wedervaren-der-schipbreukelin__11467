@@ -1,10 +1,13 @@
 _repo: Verhaal-van-het-vergaan-van-het-jacht-de-Sperwer--13-En-van-het-wedervaren-der-schipbreukelin__11467
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Hoetink, B.
     gutenberg_agent_id: '4553'
     url: http://www.gutenberg.org/2009/agents/4553
+covers:
+- cover_type: archival
+  image_path: 11467-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamel, Hendrik
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3991
     wikipedia: http://en.wikipedia.org/wiki/Hendrick_Hamel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11467#Verhaal-van-het-vergaan-van-het-jacht-de-Sperwer--13-En-van-het-wedervaren-der-schipbreukelin_
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
